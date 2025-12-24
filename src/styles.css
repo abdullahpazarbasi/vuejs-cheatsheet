@@ -1,0 +1,24 @@
+:root {
+  font-family:
+    system-ui,
+    -apple-system,
+    Segoe UI,
+    Roboto,
+    Arial,
+    sans-serif;
+  line-height: 1.4;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  color: inherit;
+}
+
+code {
+  background: rgba(0, 0, 0, 0.06);
+  padding: 0.1rem 0.25rem;
+  border-radius: 4px;
+}
